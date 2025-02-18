@@ -15,7 +15,7 @@ WAMP : C:\wamp\www\app-web\
 3. Créer la Base de Données
 
 Accédez à phpMyAdmin (http://localhost/phpmyadmin/).
-Créez la base de données animals (ou une base similaire selon le projet).
+Créez la base de données mysql (ou une base similaire selon le projet).
 4. Importer la Table animals.sql
 
 Dans phpMyAdmin, sélectionnez la base de données.
